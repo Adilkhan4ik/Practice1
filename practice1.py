@@ -1,0 +1,5 @@
+print("Hello World")
+print("My name is Adilkhan")
+print("I am student")
+print("Let`s go to school")
+print("I love sleeping")
