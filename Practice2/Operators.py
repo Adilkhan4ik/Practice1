@@ -8,7 +8,7 @@ print(a | b)  # 7
 
 ################
 
-print(not x)  # False
+print(not a)  # False
 
 ################
 print((5 > 3) and (2 < 4))  # True
